@@ -1,0 +1,8 @@
+# Ignora tudo por padrão
+/*
+
+# Permite arquivos .py
+!*.py
+
+# Permite diretórios que contêm arquivos .py
+!*/ 
